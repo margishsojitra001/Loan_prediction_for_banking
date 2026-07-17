@@ -229,3 +229,6 @@ if predict_btn:
         st.success("✅ Loan Approved")
     else:
         st.error("❌ Loan Rejected")
+
+
+st.caption('by MARGISH SOJITRA')
