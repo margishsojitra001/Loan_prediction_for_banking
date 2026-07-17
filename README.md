@@ -13,3 +13,8 @@ This project demonstrates end-to-end ML workflow:
 - Deployment with Streamlit  
 
 Built with Python, Scikit-learn, NumPy, and Streamlit.
+
+
+# live demo #
+
+https://loanpredictionforbanking-ms.streamlit.app/
