@@ -38,7 +38,7 @@ st.markdown("""
 
 # LOAD MODEL
 
-model = joblib.load("project_1.pkl")
+model = joblib.load("LogisticRegression.pkl")
 
 
 # TITLE
